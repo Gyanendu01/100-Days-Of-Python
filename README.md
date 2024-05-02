@@ -8,7 +8,7 @@ The 100 Days of Python Challenge is a commitment to code for at least one hour e
 
 ## How to Participate
 
-1. Sign up for the challenge on the [official website](https://www.100daysofpython.dev/) or simply decide to embark on the journey independently.
+1. Sign up for the challenge on the [official website](https://replit.com/learn/100-days-of-python/hub) or simply decide to embark on the journey independently.
 2. Fork this Replit repository to get started with your own workspace.
 3. Each day, create a new Python file or notebook to work on your daily coding tasks.
 4. Commit your progress to your forked repository regularly to track your journey.
